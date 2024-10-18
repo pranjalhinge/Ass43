@@ -4,11 +4,7 @@ import collegenotes from './collegenotes.avif'
 import travellingbucket from './travelling-bucket.avif'
 import booklist from './booklist.jpg'
 import Featurecard from './../../components/featureCard/feature'
-import { Link } from 'react-router-dom'
-import Hovercard from './../../components/Hovercard/Hovercard'
-import Img1 from './../../components/Hovercard/HoverImg/img1.jpg'
-import Img2 from './../../components/Hovercard/HoverImg/img5.png'
-import Img3 from './../../components/Hovercard/HoverImg/wukong-removebg-preview.png'
+
 function home() {
   return (
     <div className='main-color home-container'>
